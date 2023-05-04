@@ -22,7 +22,7 @@ const About = () => {
 	  <Row>
 	  <Col></Col>
 	  <Col className="d-flex justify-content-center">
-	  <ReactPlayer url="https://www.youtube.com/watch?v=X30RLvIDbfU" />
+	  <ReactPlayer url="https://www.youtube.com/watch?v=yCgw6yxargc" />
 
 	  </Col>
 
